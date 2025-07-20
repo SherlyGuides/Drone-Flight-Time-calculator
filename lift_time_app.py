@@ -38,6 +38,7 @@ motors = {
     "MN7005 KV230":   {"thrust_kg":  6.0,  "motor_mass_kg": 0.28},
     "MN8017 KV120":   {"thrust_kg": 16.8,  "motor_mass_kg": 0.453},
     "MN8012 KV100":   {"thrust_kg": 11.8,  "motor_mass_kg": 0.351},
+    "MN8014 KV100":   {"thrust_kg": 13.9,  "motor_mass_kg": 0.392},
 }
 
 # ─── Sidebar inputs ────────────────────────────────────────────────────────────
